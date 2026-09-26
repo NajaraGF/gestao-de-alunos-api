@@ -1,0 +1,16 @@
+{
+    "admin": {
+        "email": "admin@escola.com",
+        "senha": "admin123"
+    },
+    "adminSenhaInvalida": {
+        "email": "admin@escola.com",
+        "senha": "senha-incorreta"
+    },
+    "aluno": {
+        "nome": "Carolina Mendes",
+        "email": "carolina.mendes.qa2026@example.com",
+        "matricula": "QA987655",
+        "senha": "123456"
+    }
+}
